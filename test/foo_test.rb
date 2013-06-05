@@ -5,7 +5,4 @@ class FooTest < Test::Unit::TestCase
     assert true
   end
 
-  def test_fails
-    assert false
-  end
 end
